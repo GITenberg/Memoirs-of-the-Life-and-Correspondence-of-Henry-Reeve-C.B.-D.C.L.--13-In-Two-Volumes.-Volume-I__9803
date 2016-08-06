@@ -1,0 +1,35 @@
+_repo: Memoirs-of-the-Life-and-Correspondence-of-Henry-Reeve-C.B.-D.C.L.--13-In-Two-Volumes.-Volume-I__9803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeve, Henry
+    alias: Reeves, Henry
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '7359'
+    url: http://www.gutenberg.org/2009/agents/7359
+  editor:
+    agent_name: Laughton, John Knox
+    alias: Laughton, Sir John Knox
+    birthdate: 1830
+    deathdate: 1915
+    gutenberg_agent_id: '3145'
+    url: http://www.gutenberg.org/2009/agents/3145
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Reeve, Henry, 1813-1895 -- Correspondence'
+- !lcsh 'Reeve, Henry, 1813-1895'
+- !lcsh 'Journalists -- Great Britain -- 19th century -- Biography'
+- GITenberg
+title: "Memoirs of the Life and Correspondence of Henry Reeve, C.B., D.C.L.\r\nIn\
+  \ Two Volumes. Volume II."
+url: http://www.gutenberg.org/ebooks/9803
